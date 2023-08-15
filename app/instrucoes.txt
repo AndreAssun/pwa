@@ -1,0 +1,18 @@
+Atividade:
+
+T:\Publica\TII03\prof.celso\app
+
+Criar uma pasta no xampp chamada app e inserir o conteúdo da pasta acima
+
+Criar as tabelas de acordo com o arquivo sql abaixo:
+u749616100_acfinanceiro
+
+
+Localizar no código fonte, o php que faz a configuração e configure.
+
+Verificar onde está o programa principal e testar.
+Ver se:
+- Tem erros de lógica,
+- Está responsivo
+
+Fonte: https://github.com/r-santtos-off/Controle-Financeiro/tree/master/acfinanceiro
